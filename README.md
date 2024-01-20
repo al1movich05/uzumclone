@@ -1,0 +1,2 @@
+# uzumclone
+clone repository
